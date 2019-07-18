@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding:0px ;
+    background:url("image/bg.jpg") no-repeat;
+    background-size:cover ;
+    background-position: center;
+    font-family:sans-serif ;
+
+}
+.loginbox{
+    width: 320px;
+    height: 420px;
+    background: black;
+    color: #fff;
+    top: 50%;
+    left: 50%;
+    background-position: center;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    margin-left: 784px;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+
+    margin-top: 355px;
+}
+.bgimg{
+    width: 100px;
+    height: 100px;
+    margin-left: 110px;
+    margin-top: -50px;
+
+
+}
+form{
+    padding-left: 50px;
+    padding-top: 15px;
+}
+footer{
+    margin-top: 50px;
+    margin-left: 90px;
+}
+p{
+    color: dimgray;
+}
+a{
+    color: springgreen;
+}
